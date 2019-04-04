@@ -1,0 +1,35 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+background: black
+}
+h1{
+	color: white;
+	font-family: Geneva, Arial, FreeMono, monospace;
+	background-color:black;
+}
+.p11{
+	background: linear-gradient(30deg, grey, white);
+	border: 2px solid #38b6ff;
+	padding:10px;
+	
+
+}
+.k11{
+	width:825px;
+	border: 2px double #38b6ff;
+	border-radius:10px;
+	
+}
+
+.p22{
+	background: linear-gradient(30deg, grey, white);
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px solid #38b6ff; 
+	
+}
+body{
+	background:gray;
+}

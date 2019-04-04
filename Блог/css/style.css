@@ -1,0 +1,35 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+background: black
+}
+h1{
+	color: white;
+	font-family: Geneva, Arial, FreeMono, monospace;
+	background-color:#38b6ff;
+}
+.p11{
+	background: linear-gradient(30deg, yellow, red, blue);
+	border: 2px solid #38b6ff;
+	padding:10px;
+	
+
+}
+.k11{
+	width:825px;
+	border: 2px double #38b6ff;
+	border-radius:10px;
+	
+}
+
+.p22{
+	background: linear-gradient(30deg, #FFD700, #20B2AA);
+	padding: 10px;
+	border-radius: 10px;
+	border: 2px solid #38b6ff; 
+	
+}
+body{
+	background:orange;
+}
